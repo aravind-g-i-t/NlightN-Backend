@@ -1,8 +1,7 @@
-export class Learner{
+export class Organisation{
     constructor(
         public readonly id:string,
-        public firstName:string,
-        public lastName:string,
+        public orgName:string,
         public email:string,
         public phone:string,
         public password:string,

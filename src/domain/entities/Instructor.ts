@@ -1,4 +1,4 @@
-export class Learner{
+export class Instructor{
     constructor(
         public readonly id:string,
         public firstName:string,
